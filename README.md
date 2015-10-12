@@ -5,13 +5,13 @@ This is a very simple [TextMate](http://www.macromates.com) Bundle to help with 
 
 1. mkdir -p ~/Library/Application\ Support/Avian/Bundles
 2. cd ~/Library/Application\ Support/Avian/Bundles
-3. git clone git://github.com/briancavalier/textmate-freemarker-bundle.git "Freemarker.tmbundle"
+3. git clone https://github.com/freemarker/FreeMarker.tmbundle.git
 
 ### Textmate 1
 
 1. mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 2. cd ~/Library/Application\ Support/TextMate/Bundles
-3. git clone git://github.com/briancavalier/textmate-freemarker-bundle.git "Freemarker.tmbundle"
+3. git clone https://github.com/freemarker/FreeMarker.tmbundle.git
 4. osascript -e 'tell app "TextMate" to reload bundles'
 
 ## Changelog
