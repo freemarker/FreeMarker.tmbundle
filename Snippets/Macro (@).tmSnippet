@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;@$1&gt;$0&lt;/${1/\s.*$//}&gt;</string>
+	<string>&lt;@$1&gt;$0&lt;/@${1/\s.*$//}&gt;</string>
 	<key>name</key>
 	<string>Macro (@)</string>
 	<key>scope</key>
