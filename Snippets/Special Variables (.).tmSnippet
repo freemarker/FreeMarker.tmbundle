@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>content</key>
+  <string>\${.${1|current_template_name,error,data_model,globals,lang,locale,locale_object,locals,main,main_template_name,namespace,node,now,output_encoding,url_escaping_charset,vars,version|}</string>
+  <key>name</key>
+  <string>Special Variables (${.)</string>
+  <key>scope</key>
+  <string>text.html.ftl</string>
+  <key>tabTrigger</key>
+  <string>${.</string>
+  <key>uuid</key>
+  <string>24d9ca1c-3ea6-49d2-94fc-2697ac6a4497</string>
+</dict>
+</plist>
