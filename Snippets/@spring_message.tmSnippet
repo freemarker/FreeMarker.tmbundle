@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;@spring.message code="$1"/&gt;$0</string>
+	<string>&lt;@spring.message code="$1" /&gt;$0</string>
 	<key>name</key>
 	<string>@spring.message</string>
 	<key>scope</key>

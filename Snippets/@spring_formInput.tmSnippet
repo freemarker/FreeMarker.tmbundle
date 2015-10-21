@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;@spring.formInput path="${1:path}"/&gt;$0</string>
+	<string>&lt;@spring.formInput path="${1:path}" /&gt;$0</string>
 	<key>name</key>
 	<string>@spring.formInput</string>
 	<key>scope</key>
